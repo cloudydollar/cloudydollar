@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @cloudydollar
+
+Please check NOTES for general information about this list.
+Please refer CONTRIBUTING.md for contribution guidelines.
+Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked.
+You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials, or advertisements for some sites/channels.- 👋 Hi, I’m @cloudydollar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
